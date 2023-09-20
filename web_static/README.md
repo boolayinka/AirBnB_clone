@@ -1,4 +1,6 @@
 0x01. AirBnB clone - Web static
+<<<<<<< HEAD
+=======
 
 #TASKS
 
@@ -356,3 +358,4 @@ Examples:
 Colors contrast
 Header tags
 etc.
+>>>>>>> 65f9649b6e2b0f50b7cfb38d6ad850b9d7f6f84e

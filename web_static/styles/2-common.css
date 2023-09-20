@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
  * === Global style ===
  */
@@ -6,4 +7,9 @@
 body {
   margin: 0;
   padding: 0;
+=======
+body{
+    margin: 0;
+    padding: 0;
+>>>>>>> 5fba8970b1766db3d88a00006b127ac628fd4824
 }

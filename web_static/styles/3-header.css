@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
  * === Header style ===
  */
@@ -8,4 +9,14 @@ header {
   border-bottom: 1px solid #ccc;
   height: 70px;
   width: 100%;
+=======
+header{
+    background-color: white;
+    height: 70px;
+    width:100%;
+    border-bottom: 1px solid #CCCCCC;
+    background-image: url(../images/logo.png);
+    background-repeat: no-repeat;
+    background-position-x: 20px;
+>>>>>>> 5fba8970b1766db3d88a00006b127ac628fd4824
 }
